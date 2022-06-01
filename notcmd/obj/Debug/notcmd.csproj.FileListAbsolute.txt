@@ -1,0 +1,16 @@
+C:\Users\ЧЕТ\source\repos\notcmd\notcmd\bin\Debug\notcmd.exe.config
+C:\Users\ЧЕТ\source\repos\notcmd\notcmd\bin\Debug\notcmd.exe
+C:\Users\ЧЕТ\source\repos\notcmd\notcmd\bin\Debug\notcmd.pdb
+C:\Users\ЧЕТ\source\repos\notcmd\notcmd\obj\Debug\notcmd.csproj.AssemblyReference.cache
+C:\Users\ЧЕТ\source\repos\notcmd\notcmd\obj\Debug\notcmd.csproj.SuggestedBindingRedirects.cache
+C:\Users\ЧЕТ\source\repos\notcmd\notcmd\obj\Debug\MainWindow.g.cs
+C:\Users\ЧЕТ\source\repos\notcmd\notcmd\obj\Debug\App.g.cs
+C:\Users\ЧЕТ\source\repos\notcmd\notcmd\obj\Debug\notcmd_MarkupCompile.cache
+C:\Users\ЧЕТ\source\repos\notcmd\notcmd\obj\Debug\notcmd_MarkupCompile.lref
+C:\Users\ЧЕТ\source\repos\notcmd\notcmd\obj\Debug\MainWindow.baml
+C:\Users\ЧЕТ\source\repos\notcmd\notcmd\obj\Debug\notcmd.g.resources
+C:\Users\ЧЕТ\source\repos\notcmd\notcmd\obj\Debug\notcmd.Properties.Resources.resources
+C:\Users\ЧЕТ\source\repos\notcmd\notcmd\obj\Debug\notcmd.csproj.GenerateResource.cache
+C:\Users\ЧЕТ\source\repos\notcmd\notcmd\obj\Debug\notcmd.csproj.CoreCompileInputs.cache
+C:\Users\ЧЕТ\source\repos\notcmd\notcmd\obj\Debug\notcmd.exe
+C:\Users\ЧЕТ\source\repos\notcmd\notcmd\obj\Debug\notcmd.pdb
